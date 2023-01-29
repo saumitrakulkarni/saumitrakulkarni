@@ -2,9 +2,11 @@
 <h3 align="center">It is a capital mistake to theorize before one has data.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAM/developer.gif">
 
+- 🌍 I’m based in Buffalo, **New York**
+
 - 🌱 I’m currently learning **Cassandra, Spark**
 
-- 💬 Ask me about **SQL**
+- 💬 Ask me about **SQL, Data Warehouse**
 
 - 📫 How to reach me **sk394@buffalo.edu**
 
