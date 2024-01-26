@@ -4,7 +4,7 @@
 
 - 🌍 I’m based in Buffalo, **New York**
 
-- 🌱 I’m currently learning **Cassandra, Spark**
+- 🌱 I’m currently learning **PySpark and AWS**
 
 - 💬 Ask me about **SQL, Data Warehouse**
 
